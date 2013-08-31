@@ -1,0 +1,13 @@
+<?php
+
+define('DBNAME', '');           // database name
+define('DBUSER', '');           // database user
+define('DBPASS', '');           // database password
+define('DBHOST', 'localhost');  // database host
+
+$salt = '';                     // can be generated with 'pwgen -sy 57 1'
+
+// Twilio Data
+$sid = '';
+$token = '';
+
